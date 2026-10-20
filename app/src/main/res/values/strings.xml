@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CatalogueStatique</string>
+    <string name="store_title">Urban Store</string>
+    <string name="store_subtitle">Your everyday style, one place.</string>
+    <string name="btn_voir_catalogue">Voir le Catalogue</string>
+
+    <string name="title_catalogue">Notre Catalogue</string>
+    <string name="btn_acheter">Acheter</string>
+
+    <!-- Product 1 -->
+    <string name="product_1_name">Sneakers</string>
+    <string name="product_1_price">189.900 TND</string>
+    <string name="product_1_desc">Baskets confortables et stylées pour tous les jours.</string>
+    <string name="product_1_toast">Produit 1 ajouté au panier !</string>
+
+    <!-- Product 2 -->
+    <string name="product_2_name">Accessories</string>
+    <string name="product_2_price">79.900 TND</string>
+    <string name="product_2_desc">Accessoires tendance pour compléter votre look.</string>
+    <string name="product_2_toast">Produit 2 ajouté au panier !</string>
+
+    <!-- Product 3 -->
+    <string name="product_3_name">Cosmetics</string>
+    <string name="product_3_price">49.900 TND</string>
+    <string name="product_3_desc">Soins et cosmétiques de qualité supérieure.</string>
+    <string name="product_3_toast">Produit 3 ajouté au panier !</string>
+
+    <!-- Product 4 -->
+    <string name="product_4_name">Watches</string>
+    <string name="product_4_price">129.900 TND</string>
+    <string name="product_4_desc">Montres élégantes pour un style raffiné au quotidien.</string>
+    <string name="product_4_toast">Produit 4 ajouté au panier !</string>
+
+    <!-- Product 5 -->
+    <string name="product_5_name">Clothing</string>
+    <string name="product_5_price">59.900 TND</string>
+    <string name="product_5_desc">Vêtements modernes et confortables.</string>
+    <string name="product_5_toast">Produit 5 ajouté au panier !</string>
+</resources>
